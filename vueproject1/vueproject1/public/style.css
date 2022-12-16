@@ -1,0 +1,16 @@
+.message-container { 
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    gap: 70px;
+
+      }
+
+
+
+span-message {
+        width: 50px;
+        height: 20px;
+    
+      }
+
