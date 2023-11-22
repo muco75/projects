@@ -1,0 +1,15 @@
+C:\Users\mumus\Desktop\TrafficLight\bin\Debug\net7.0\TrafficLight.exe
+C:\Users\mumus\Desktop\TrafficLight\bin\Debug\net7.0\TrafficLight.deps.json
+C:\Users\mumus\Desktop\TrafficLight\bin\Debug\net7.0\TrafficLight.runtimeconfig.json
+C:\Users\mumus\Desktop\TrafficLight\bin\Debug\net7.0\TrafficLight.dll
+C:\Users\mumus\Desktop\TrafficLight\bin\Debug\net7.0\TrafficLight.pdb
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.csproj.AssemblyReference.cache
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.AssemblyInfo.cs
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.dll
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\refint\TrafficLight.dll
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.pdb
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\TrafficLight.genruntimeconfig.cache
+C:\Users\mumus\Desktop\TrafficLight\obj\Debug\net7.0\ref\TrafficLight.dll
