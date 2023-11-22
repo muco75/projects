@@ -1,0 +1,30 @@
+C:\Users\mumus\Desktop\BikeCalculator\bin\Debug\net6.0\BikeCalculator.exe
+C:\Users\mumus\Desktop\BikeCalculator\bin\Debug\net6.0\BikeCalculator.deps.json
+C:\Users\mumus\Desktop\BikeCalculator\bin\Debug\net6.0\BikeCalculator.runtimeconfig.json
+C:\Users\mumus\Desktop\BikeCalculator\bin\Debug\net6.0\BikeCalculator.dll
+C:\Users\mumus\Desktop\BikeCalculator\bin\Debug\net6.0\BikeCalculator.pdb
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.csproj.AssemblyReference.cache
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.AssemblyInfoInputs.cache
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.AssemblyInfo.cs
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.dll
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\refint\BikeCalculator.dll
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.pdb
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\BikeCalculator.genruntimeconfig.cache
+C:\Users\mumus\Desktop\BikeCalculator\obj\Debug\net6.0\ref\BikeCalculator.dll
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\bin\Debug\net6.0\BikeCalculator.exe
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\bin\Debug\net6.0\BikeCalculator.deps.json
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\bin\Debug\net6.0\BikeCalculator.runtimeconfig.json
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\bin\Debug\net6.0\BikeCalculator.dll
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\bin\Debug\net6.0\BikeCalculator.pdb
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.csproj.AssemblyReference.cache
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.AssemblyInfoInputs.cache
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.AssemblyInfo.cs
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.dll
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\refint\BikeCalculator.dll
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.pdb
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\BikeCalculator.genruntimeconfig.cache
+C:\Users\mumus\Desktop\IT Fontys\software\BikeCalculator\obj\Debug\net6.0\ref\BikeCalculator.dll
