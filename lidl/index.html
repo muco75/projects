@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="loading-container">
+        <div class="loading-spinner"></div>
+    </div>
+
+    <div class="navbar">
+        <div class="container flex">
+            <img class="logo" src="Lidl logo1.png" alt="Lidl Logo">
+            <nav>
+                <ul>
+                    <li><a href="#">Webshop</a></li>
+                    <li><a href="#">Folders</a></li>
+                    <li><a href="#">Assortiment</a></li>
+                    <li><a href="#">Recepten</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="pics">
+        <div class="dessert">
+            <img src="dessert2.png" alt="">
+            <div class="discover-text">New Lux Dessert</div>
+        </div>
+
+        <div class="image-container">
+            <div class="wijn-image">
+                <img src="wijn 2.jpg" alt="Image 2">
+                <div class="popup-text">Taste Our Wines</div>
+            </div>
+            <div class="popupbar">
+                <img src="popupbar.webp" alt="Image 1">
+                <div class="popup-text">Our New Restaurant</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="description">
+        <div class="description-text">
+            <p>"Exploration and culinary craftsmanship embody a gastronomic journey rich in flavor and allure: 
+            delicate soufflés of extra-light nappa cheese, exquisite pasta made from rare grains, experimental dishes that combine savory and sweet, 
+            and silken sauces infused with subtle metallic hints sprinkle the gourmet spread, culminating in a magnetic and hyper-delicious sheen reminiscent of a delectable dessert.”</p>
+        </div>
+
+        <div class="description-img">
+            <div>
+                <img src="food1.png" alt="Image 1">
+            </div>
+            <div>
+                <img src="food2.png" alt="Image 2">
+            </div>
+        </div>
+    </div>
+
+    <div class="foods">
+        <div class="product">
+            <div class="product-image">
+                <img src="wijn 3.png" alt="Image 3">
+            </div>
+            <div class="product-text">
+                <strong>"Embrace Luxury, Sip Elegance: Luxe Wine, Where Taste Meets Glamour."</strong>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script> 
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+
+            setTimeout(function () {
+                document.querySelector('.loading-container').style.display = 'none';
+            }, 500); 
+        });
+    </script>
+</body>
+</html>
